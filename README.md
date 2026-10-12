@@ -10,11 +10,11 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 
 ## Demonstração:
 
-> Vista por cima -> images/Captura de tela 2026-10-11 190129.png
+> [Vista de frente](images/Captura_de_tela_2026-10-11_190154.png)
 
-> Vista de frente -> images/Captura de tela 2026-10-11 190154.png
+> [Vista de cima](images/Captura_de_tela_2026-10-11_190129.png)
 
-> Vista de lado -> images/Captura de tela 2026-10-11 190202.png
+> [Vista de lado](images/Captura_de_tela_2026-10-11_190202.png)
 
 Nas imagens pode se ver uma mão posicionada onde deve ser e com tudo colocado nela, assim se pode ver os fios pretos que irão puxar o dedo com os servomotores até o grau que o úsuario inserir.
 
