@@ -10,13 +10,15 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 
 ## Demonstração:
 
-> [Vista por cima](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/images/Captura%20de%20tela%202026-10-11%20190129.png)
+> Vista por cima -> images/Captura de tela 2026-10-11 190129.png
 
-> [Vista de frente](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/images/Captura%20de%20tela%202026-10-11%20190154.png)
+> Vista de frente -> images/Captura de tela 2026-10-11 190154.png
 
-> [Vista de lado](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/images/Captura%20de%20tela%202026-10-11%20190202.png)
+> Vista de lado -> images/Captura de tela 2026-10-11 190202.png
 
 Nas imagens pode se ver uma mão posicionada onde deve ser e com tudo colocado nela, assim se pode ver os fios pretos que irão puxar o dedo com os servomotores até o grau que o úsuario inserir.
+
+O código do Servo_motor 
 
 ## Instalações e pré-requisito: 
 
@@ -32,6 +34,8 @@ Nas imagens pode se ver uma mão posicionada onde deve ser e com tudo colocado n
 Para o tutorial sobre como instalar o FreeCad clique [aqui](https://youtu.be/9TrUSYzOHUM?si=I-Dh-GSwRMTxwsI5)!
 
 Para o tutorial sobre como instalar o Arduino IDE clique [aqui](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)!
+
+Para o tutorial sobre como instalar a biblioteca <Servo.h> clique [aqui](https://www.youtube.com/shorts/yjHAu2QQTWA)!
 
 ## Uso e exemplos:
 
@@ -99,6 +103,10 @@ A explicação de cada modelo está no "Uso e Exemplos" na seção "Modelos 3d"
 ### images
 
 Nessa pasta cada imagem iniciada em "Captura de tela" será a demponstração simulada em 3d pelo FreeCad e também serve como indicador de onde cada peça deve ser montada.
+
+### LICENSE
+
+A licença é o que define de que maneira você pode usar este projeto, a licença usada é a do MIT, para mais informação clique [aqui](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/LICENSE)
 
 ### Servo_motor_codigo.ino
 
