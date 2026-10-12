@@ -32,6 +32,8 @@ Após terminar esse tutorial e abrir o Arduino IDE, clique em **File > Open... >
 
 Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](Circuito), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
 
+Para enviar o seu arquivo até a placa clique no botão que parece uma seta que está na parte superior esquerda da tela e quando o mouse passa por cima diz "Upload"
+
 Para o tutorial sobre como instalar a biblioteca <Servo.h> clique [aqui](https://www.youtube.com/shorts/yjHAu2QQTWA)!
 
 ## Uso e exemplos:
@@ -40,7 +42,9 @@ Para começar o projeto você tem que primeiramente ou imprimir os modelos 3d ou
 
 ### Circuito:
 
-> [Circuito TinkerCad visualizador](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/images/Funky%20Habbi%20(1).png)
+> [Circuito feito no TinkerCad (imagem)](images/Circuito.png)
+
+> [Circuito feito no TinkerCad (gif)](images/gif_demonstracao)
 
 ### Código:
 
@@ -87,7 +91,7 @@ images/
     Captura_de_tela_2026-10-11_190129.png
     Captura_de_tela_2026-10-11_190154.png
     Captura_de_tela_2026-10-11_190202.png
-    Circuito
+    Circuito.png
     gif_demonstracao
 README.md
 LICENSE
@@ -100,7 +104,7 @@ A explicação de cada modelo está no "Uso e Exemplos" na seção "Modelos 3d"
 
 ### images
 
-Nessa pasta cada imagem iniciada em "Captura de tela" será a demponstração simulada em 3d pelo FreeCad e também serve como indicador de onde cada peça deve ser montada.
+Nessa pasta havera imagens que servirão de exemplo para como montar todos os componentes (os servo motores, como a mão deve ser colocada e os aneis de dedo devem ser colocados e etc...), e no arquivos "gif_demonstracao" haverá uma demonstração sobre como o código funcionara, e na imagem "Circuito" está 
 
 ### LICENSE
 
