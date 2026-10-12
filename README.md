@@ -30,7 +30,7 @@ Para o tutorial sobre como instalar o Arduino IDE clique [aqui](https://support.
 
 Após terminar esse tutorial e abrir o Arduino IDE, clique em **File > Open... > ** E selecione o código que está [aqui](Servo_motor_codigo.ino) nos seus arquivos.
 
-Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](Circuito.png), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
+Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](images\Circuito.png), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
 
 Para enviar o seu arquivo até a placa clique no botão que parece uma seta que está na parte superior esquerda da tela e quando o mouse passa por cima diz "Upload"
 
@@ -48,31 +48,31 @@ Para começar o projeto você tem que primeiramente ou imprimir os modelos 3d ou
 
 ### Código:
 
-O código para esse servo motor está acessível ao você clicar [aqui](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/Servo_motor_codigo.ino).
+O código para esse servo motor está acessível ao você clicar [aqui](Servo_motor_codigo.ino).
 
 Ele é totalmente personalizavel e vem com um treinamento de exemplo que você pode executar para testar cada servo motor e testar os limites que seus dedos podem ir, recomenda-se que você leia todos os comentários do código para entender cada parte do código e o que você pode mudar, e lembre que você pode mudar tudo desse código para o maior conforto possível.
 
 ### Modelos 3d:
 
-Para o gorro onde será colocado a ponta do dedo clique [aqui](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/Modelos_3d/Dedo_anel.FCStd)
+Para o "anel" onde será colocado a ponta do dedo clique [aqui](Modelos_3d/Dedo_anel.FCStd)
 
 Essa base servira para o paciente colocar a ponta de cada um dos quatro dedos (do dedo indicador, do meio, anelar e o mindinho) e no quadrado de cima com o meio perfurado e aí você deve amarrar o fio necessário para puxar a ponta do dedo, não esqueça de colar esse fio no servo motor(na peça que você imprimira para ele) e de colocar um tecido para segurar a ponta do seu dedo.
 
-Para a base do projeto clique [aqui](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/Modelos_3d/Base.FCStd):
+Para a base do projeto clique [aqui](Modelos_3d/Base.FCStd):
 
 Essa base será onde você apoiara sua mão e colocar cada servo motor da mesma maneira que está no modelo 3d mostrado no tópico das demonstrações.
 
-Para o apoio aos dedos clique [aqui](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/Modelos_3d/Apoio_Dedo.FCStd)
+Para o apoio aos dedos clique [aqui](Modelos_3d/Apoio_Dedo.FCStd)
 
 O apoio dos dedos deve ser colocado nos buracos que estão na base, cada um deve ser ajustado até a segunda articulação do dedos de baixo para cima (contando o nó dos dedo), imprima 4 delas, uma para cada dedo (dedo indicador, do meio, anelar e o mindinho).
 
-Para a roda especial para o Servo Motor clique [aqui](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/Modelos_3d/Roda_ServoMotor.FCStd)
+Para a roda especial para o Servo Motor clique [aqui](Modelos_3d/Roda_ServoMotor.FCStd)
 
 Essa roda deve ser impressa uma para cada um dos quatro servo motores, e a pressão colcada em cada um deles, ela servira para segurar os fios em um movimeto similar a um filamento de impressora 3d!
 
 ### Exemplos que você pode ter:
 
-Os exemplos que você pode ter seguindo esses passos é ao rodar o [código do servo motor ](https://github.com/mkmontesino-glitch/Luva-Assistiva-Para-Pacientes-P-s-AVC/blob/main/Servo_motor_codigo.ino) é:
+Os exemplos que você pode ter seguindo esses passos é ao rodar o [código do servo motor ]() é:
 
 - Todos os quatro dedos são puxados para cima e depois para baixo
 - Três dedos são puxados para cima e depois para baixo
