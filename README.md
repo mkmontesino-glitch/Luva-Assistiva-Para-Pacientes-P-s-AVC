@@ -10,7 +10,7 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 
 ## Demonstração:
 
-[Demonstração por simulador](images/gif_demonstracao)
+[Demonstração por simulador](images/gif_demonstracao.gif)
 (O gif está na 1.5x mais rápido do que a simualção na vida real para assim poder caber em formato gif, se sua versão estiver mais lenta não se preocupe)
 
 Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
@@ -45,7 +45,7 @@ Para começar o projeto você tem que primeiramente ou imprimir os modelos 3d ou
 
 > [Circuito feito no TinkerCad (imagem)](images/Circuito.png)
 
-> [Circuito feito no TinkerCad (gif)](images/gif_demonstracao)
+> [Circuito feito no TinkerCad (gif)](images/gif_demonstracao.gif)
 > (O gif está na 1.5x mais rápido do que a simualção na vida real para assim poder caber em formato gif, se sua versão estiver mais lenta não se preocupe)
 
 ### Código:
