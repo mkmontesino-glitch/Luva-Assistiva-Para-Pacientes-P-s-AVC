@@ -36,9 +36,7 @@ Ao fazer isso você vai abrir o código necessário para os primeiros testes dos
 
 Para enviar o seu arquivo até a placa clique no botão que parece uma seta que está na parte superior esquerda da tela e quando o mouse passa por cima diz "Upload"
 
-Para o tutorial sobre como instalar a biblioteca <Servo.h> clique [aqui](https://www.youtube.com/shorts/yjHAu2QQTWA)!
-
-
+Para instalar a biblioteca <Servo.h> abra o Arduino IDE e no painel lateral da esquerda clique em "Library Manager" e pesquise na barra de pesquisa "Servo", instale a primeira opção que aparecer (versão 1.3.0, by Michael Margolis)
 
 ## Uso e exemplos:
 
