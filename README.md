@@ -38,6 +38,8 @@ Para enviar o seu arquivo até a placa clique no botão que parece uma seta que 
 
 Para instalar a biblioteca <Servo.h> abra o Arduino IDE e no painel lateral da esquerda clique em "Library Manager" e pesquise na barra de pesquisa "Servo", instale a primeira opção que aparecer (versão 1.3.0, by Michael Margolis)
 
+Alternativamente, disponibilizamos os arquivos da biblioteca completa em um .zip (versão 1.3.0) na [pasta](dependencias).
+
 ## Uso e exemplos:
 
 Para começar o projeto você tem que primeiramente ou imprimir os modelos 3d ou fazer conectar os servomotores ao arduino e a bateria:
