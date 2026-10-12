@@ -10,21 +10,14 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 
 ## Demonstração:
 
-> [Vista de frente](images/Captura_de_tela_2026-10-11_190154.png)
+[Demonstração por simulador](images/gif_demonstracao)
 
-> [Vista de cima](images/Captura_de_tela_2026-10-11_190129.png)
-
-> [Vista de lado](images/Captura_de_tela_2026-10-11_190202.png)
-
-Nas imagens pode se ver uma mão posicionada onde deve ser e com tudo colocado nela, assim se pode ver os fios pretos que irão puxar o dedo com os servomotores até o grau que o úsuario inserir.
-
-O código do Servo_motor 
+Essa é uma demonstração pelo simulador FreeCad em formato .gif
 
 ## Instalações e pré-requisito: 
 
 - Arduino IDE
 - FreeCad
-- Biblioteca do Arduino IDE: <Servo.h>
 - Acesso a impressora 3d ou serviçoes que imprimam itens em 3d personalizados
 - Arduino Uno
 - Breadboard
@@ -34,6 +27,10 @@ O código do Servo_motor
 Para o tutorial sobre como instalar o FreeCad clique [aqui](https://youtu.be/9TrUSYzOHUM?si=I-Dh-GSwRMTxwsI5)!
 
 Para o tutorial sobre como instalar o Arduino IDE clique [aqui](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)!
+
+Após terminar esse tutorial e abrir o Arduino IDE, clique em **File > Open... > ** E selecione o código que está [aqui](Servo_motor_codigo.ino) nos seus arquivos.
+
+Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](Circuito), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
 
 Para o tutorial sobre como instalar a biblioteca <Servo.h> clique [aqui](https://www.youtube.com/shorts/yjHAu2QQTWA)!
 
@@ -87,10 +84,11 @@ Modelos_3d/
     Dedo_Anel.FCStd
     Roda_Servomotor.FCStd
 images/
-    Captura de tela 2026-10-11 190129.png
-    Captura de tela 2026-10-11 190154.png
-    Captura de tela 2026-10-11 190202.png
-    Funky Habbi (1).png
+    Captura_de_tela_2026-10-11_190129.png
+    Captura_de_tela_2026-10-11_190154.png
+    Captura_de_tela_2026-10-11_190202.png
+    Circuito
+    gif_demonstracao
 README.md
 LICENSE
 Servo_motor_codigo.ino
