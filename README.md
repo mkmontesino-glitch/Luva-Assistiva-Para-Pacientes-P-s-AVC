@@ -12,7 +12,7 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 
 [Demonstração por simulador](images/gif_demonstracao)
 
-Essa é uma demonstração pelo simulador FreeCad em formato .gif
+Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
 
 ## Instalações e pré-requisito: 
 
@@ -30,7 +30,7 @@ Para o tutorial sobre como instalar o Arduino IDE clique [aqui](https://support.
 
 Após terminar esse tutorial e abrir o Arduino IDE, clique em **File > Open... > ** E selecione o código que está [aqui](Servo_motor_codigo.ino) nos seus arquivos.
 
-Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](Circuito), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
+Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](Circuito.png), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
 
 Para enviar o seu arquivo até a placa clique no botão que parece uma seta que está na parte superior esquerda da tela e quando o mouse passa por cima diz "Upload"
 
