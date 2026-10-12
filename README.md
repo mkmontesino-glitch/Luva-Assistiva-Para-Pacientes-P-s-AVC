@@ -13,7 +13,7 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 [Demonstração por simulador](images/gif_demonstracao.gif)
 (O gif está na 1.5x mais rápido do que a simualção na vida real para assim poder caber em formato gif, se sua versão estiver mais lenta não se preocupe)
 
-Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
+Essa é uma demonstração pelo simulador TinkerCad e é em formato de gif.
 
 ## Instalações e pré-requisito: 
 
@@ -24,6 +24,7 @@ Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
 - Breadboard
 - 4 Micro Servo 9g SG90
 - 4 baterias com case de 1,5V
+- Biblioteca <Servo.h>
 
 Para o tutorial sobre como instalar o FreeCad clique [aqui](https://youtu.be/9TrUSYzOHUM?si=I-Dh-GSwRMTxwsI5)!
 
@@ -36,6 +37,8 @@ Ao fazer isso você vai abrir o código necessário para os primeiros testes dos
 Para enviar o seu arquivo até a placa clique no botão que parece uma seta que está na parte superior esquerda da tela e quando o mouse passa por cima diz "Upload"
 
 Para o tutorial sobre como instalar a biblioteca <Servo.h> clique [aqui](https://www.youtube.com/shorts/yjHAu2QQTWA)!
+
+
 
 ## Uso e exemplos:
 
@@ -74,7 +77,7 @@ Essa roda deve ser impressa uma para cada um dos quatro servo motores, e a press
 
 ### Exemplos que você pode ter:
 
-Os exemplos que você pode ter seguindo esses passos é ao rodar o [código do servo motor ]() é:
+Os exemplos que você pode ter seguindo esses passos é a animação gif: [animação gif dos servo motores](images/gif_demonstracao.gif) é:
 
 - Todos os quatro dedos são puxados para cima e depois para baixo
 - Três dedos são puxados para cima e depois para baixo
