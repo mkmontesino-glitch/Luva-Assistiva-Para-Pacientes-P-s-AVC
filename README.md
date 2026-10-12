@@ -23,7 +23,7 @@ Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
 - Arduino Uno
 - Breadboard
 - 4 Micro Servo 9g SG90
-- 2 baterias com case de 1,5V
+- 4 baterias com case de 1,5V
 
 Para o tutorial sobre como instalar o FreeCad clique [aqui](https://youtu.be/9TrUSYzOHUM?si=I-Dh-GSwRMTxwsI5)!
 
