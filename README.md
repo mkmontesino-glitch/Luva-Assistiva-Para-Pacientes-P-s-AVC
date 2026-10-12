@@ -32,7 +32,7 @@ Para o tutorial sobre como instalar o Arduino IDE clique [aqui](https://support.
 
 Após terminar esse tutorial e abrir o Arduino IDE, clique em **File > Open... > ** E selecione o código que está [aqui](Servo_motor_codigo.ino) nos seus arquivos.
 
-Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](images\Circuito.png), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
+Ao fazer isso você vai abrir o código necessário para os primeiros testes dos servos motores, com o seu circuito montado, que você pode acessar uma imagem [aqui](images/Circuito.png), você deve conectar o seu Arduino Uno em um plug USB do seu computador e selecionar qual porta USB o Arduino Uno está, e não se esqueça de selecionar a placa que está sendo usada como Arduino Uno após a seleção da porta do USB.
 
 Para enviar o seu arquivo até a placa clique no botão que parece uma seta que está na parte superior esquerda da tela e quando o mouse passa por cima diz "Upload"
 
@@ -88,14 +88,14 @@ Os exemplos que você pode ter seguindo esses passos é a animação gif: [anima
 Modelos_3d/
     Apoio_Dedo.FCStd
     Base.FCStd
-    Dedo_Anel.FCStd
-    Roda_Servomotor.FCStd
+    Dedo_anel.FCStd
+    Roda_ServoMotor.FCStd
 images/
     Captura_de_tela_2026-10-11_190129.png
     Captura_de_tela_2026-10-11_190154.png
     Captura_de_tela_2026-10-11_190202.png
     Circuito.png
-    gif_demonstracao
+    gif_demonstracao.gif
 README.md
 LICENSE
 Servo_motor_codigo.ino
@@ -107,7 +107,7 @@ A explicação de cada modelo está no "Uso e Exemplos" na seção "Modelos 3d"
 
 ### images
 
-Nessa pasta havera imagens que servirão de exemplo para como montar todos os componentes (os servo motores, como a mão deve ser colocada e os aneis de dedo devem ser colocados e etc...), e no arquivos "gif_demonstracao" haverá uma demonstração sobre como o código funcionara, e na imagem "Circuito" está 
+Nessa pasta havera imagens que servirão de exemplo para como montar todos os componentes (os servo motores, como a mão deve ser colocada e os aneis de dedo devem ser colocados e etc...), e no arquivos "gif_demonstracao.gif" haverá uma demonstração sobre como o código funcionara, e na imagem "Circuito" está 
 
 ### LICENSE
 
