@@ -11,6 +11,7 @@ O projeto necessita apenas de um Arduino Uno, um case de 2 baterias, um objeto e
 ## Demonstração:
 
 [Demonstração por simulador](images/gif_demonstracao)
+(O gif está na 1.5x mais rápido do que a simualção na vida real para assim poder caber em formato gif, se sua versão estiver mais lenta não se preocupe)
 
 Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
 
@@ -22,7 +23,7 @@ Essa é uma demonstração pelo simulador TinkerCad e é em formato de .gif.
 - Arduino Uno
 - Breadboard
 - 4 Micro Servo 9g SG90
-- 2 baterias com case
+- 2 baterias com case de 1,5V
 
 Para o tutorial sobre como instalar o FreeCad clique [aqui](https://youtu.be/9TrUSYzOHUM?si=I-Dh-GSwRMTxwsI5)!
 
@@ -45,6 +46,7 @@ Para começar o projeto você tem que primeiramente ou imprimir os modelos 3d ou
 > [Circuito feito no TinkerCad (imagem)](images/Circuito.png)
 
 > [Circuito feito no TinkerCad (gif)](images/gif_demonstracao)
+> (O gif está na 1.5x mais rápido do que a simualção na vida real para assim poder caber em formato gif, se sua versão estiver mais lenta não se preocupe)
 
 ### Código:
 
